@@ -1,0 +1,25 @@
+h3{color:coral}
+        h1{color: darkblue;}
+        .menu{
+            display: flex;
+            justify-content: space-evenly;
+            background-color:rgb(201, 201, 0);
+            color: white;
+        }
+        .bodyImg{
+            background-color: rgb(0, 97, 97);
+            color: white;
+        }
+        .grid{
+            display: flex;
+            flex-wrap: wrap;
+        }
+        .origami{
+            border: solid;
+            border-radius: 20px;
+            background:darkturquoise;
+            width:33%;
+        }
+        body{
+            background-color: teal;
+        }
